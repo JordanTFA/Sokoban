@@ -1,0 +1,12 @@
+F:\Jordan Aitken Sokoban\Jordan Sokoban\bin\Release\Sokoban Pro.exe.config
+I:\Stuff\Jordan Aitken Sokoban\Jordan Sokoban\bin\Release\Sokoban Pro.exe.config
+I:\Stuff\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\JordanSokoban.Board.resources
+I:\Stuff\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\JordanSokoban.FormLevels.resources
+I:\Stuff\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\JordanSokoban.FormPlayers.resources
+I:\Stuff\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\Jordan Sokoban.csproj.GenerateResource.Cache
+I:\Music\Everything else\College\Jordan Aitken Sokoban\Jordan Sokoban\bin\Release\Sokoban Pro.exe.config
+I:\Music\Everything else\College\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\Jordan Sokoban.csprojResolveAssemblyReference.cache
+I:\Music\Everything else\College\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\JordanSokoban.Board.resources
+I:\Music\Everything else\College\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\JordanSokoban.FormLevels.resources
+I:\Music\Everything else\College\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\JordanSokoban.FormPlayers.resources
+I:\Music\Everything else\College\Jordan Aitken Sokoban\Jordan Sokoban\obj\Release\Jordan Sokoban.csproj.GenerateResource.Cache

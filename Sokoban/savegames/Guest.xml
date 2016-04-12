@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<savegame>
+  <playerName>Guest</playerName>
+  <lastPlayedNameSet>E:\Station 2\SokobanPro - Copy\sokoban pro/levels\boxworld.xml</lastPlayedNameSet>
+  <lastFinishedLevel>1</lastFinishedLevel>
+  <levelSets>
+    <levelSet title="Boxworld">
+      <lastFinishedLevelInSet>0</lastFinishedLevelInSet>
+      <level levelNr="1">
+        <moves>10</moves>
+        <pushes>6</pushes>
+      </level>
+    </levelSet>
+  </levelSets>
+</savegame>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<savegame>
+  <playerName>Jordan</playerName>
+  <lastPlayedNameSet>E:\Jordan Aitken Sokoban\Jordan Sokoban/levels\Jordan's Levels.xml</lastPlayedNameSet>
+  <lastFinishedLevel>3</lastFinishedLevel>
+  <levelSets>
+    <levelSet title="Boxworld">
+      <lastFinishedLevelInSet>0</lastFinishedLevelInSet>
+      <level levelNr="1">
+        <moves>10</moves>
+        <pushes>6</pushes>
+      </level>
+      <level levelNr="2">
+        <moves>93</moves>
+        <pushes>31</pushes>
+      </level>
+      <level levelNr="3">
+        <moves>116</moves>
+        <pushes>27</pushes>
+      </level>
+      <level levelNr="4">
+        <moves>36</moves>
+        <pushes>14</pushes>
+      </level>
+      <level levelNr="5">
+        <moves>51</moves>
+        <pushes>11</pushes>
+      </level>
+      <level levelNr="6">
+        <moves>218</moves>
+        <pushes>24</pushes>
+      </level>
+      <level levelNr="7">
+        <moves>163</moves>
+        <pushes>36</pushes>
+      </level>
+      <level levelNr="8">
+        <moves>47</moves>
+        <pushes>18</pushes>
+      </level>
+    </levelSet>
+    <levelSet title="Jordan's Levels">
+      <lastFinishedLevelInSet>0</lastFinishedLevelInSet>
+      <level levelNr="1">
+        <moves>24</moves>
+        <pushes>8</pushes>
+      </level>
+      <level levelNr="2">
+        <moves>43</moves>
+        <pushes>13</pushes>
+      </level>
+      <level levelNr="3">
+        <moves>45</moves>
+        <pushes>10</pushes>
+      </level>
+      <level levelNr="4">
+        <moves>51</moves>
+        <pushes>20</pushes>
+      </level>
+      <level levelNr="5">
+        <moves>254</moves>
+        <pushes>89</pushes>
+      </level>
+    </levelSet>
+  </levelSets>
+</savegame>

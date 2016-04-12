@@ -1,0 +1,33 @@
+E:\SokobanPro\Sokoban Pro\obj\Debug\Sokoban Pro.csprojResolveAssemblyReference.cache
+E:\SokobanPro\Sokoban Pro\obj\Debug\SokobanPro.Board.resources
+E:\SokobanPro\Sokoban Pro\obj\Debug\SokobanPro.FormLevels.resources
+E:\SokobanPro\Sokoban Pro\obj\Debug\SokobanPro.FormPlayers.resources
+E:\SokobanPro\Sokoban Pro\obj\Debug\Sokoban Pro.csproj.GenerateResource.Cache
+E:\SokobanPro\Sokoban Pro\obj\Debug\Sokoban Pro.exe
+E:\SokobanPro\Sokoban Pro\obj\Debug\Sokoban Pro.pdb
+E:\SokobanPro\Sokoban Pro\Sokoban Pro.exe
+E:\SokobanPro\Sokoban Pro\Sokoban Pro.pdb
+C:\Users\Jordan\Desktop\SokobanPro - Copy\Sokoban Pro\obj\Debug\Sokoban Pro.exe
+C:\Users\Jordan\Desktop\SokobanPro - Copy\Sokoban Pro\obj\Debug\Sokoban Pro.pdb
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.exe
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.pdb
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.csprojResolveAssemblyReference.cache
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\SokobanPro.Board.resources
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\SokobanPro.FormLevels.resources
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\SokobanPro.FormPlayers.resources
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.csproj.GenerateResource.Cache
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\Sokoban Pro.exe
+E:\Clean\SokobanPro - Copy\SokobanPro - Copy\sokoban pro\Sokoban Pro.pdb
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.exe
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.pdb
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.csprojResolveAssemblyReference.cache
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\JordanSokoban.FormLevels.resources
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\JordanSokoban.FormPlayers.resources
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\Sokoban Pro.csproj.GenerateResource.Cache
+E:\Station 2\SokobanPro - Copy\sokoban pro\obj\Debug\JordanSokoban.Board.resources
+E:\Station 2\SokobanPro - Copy\sokoban pro\Sokoban Pro.exe
+E:\Station 2\SokobanPro - Copy\sokoban pro\Sokoban Pro.pdb
+E:\Station 2\SokobanPro - Copy\Jordan Sokoban\obj\Debug\Sokoban Pro.exe
+E:\Station 2\SokobanPro - Copy\Jordan Sokoban\obj\Debug\Sokoban Pro.pdb
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Sokoban Pro.exe
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Sokoban Pro.pdb

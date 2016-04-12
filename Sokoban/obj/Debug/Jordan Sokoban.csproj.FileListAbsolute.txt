@@ -1,0 +1,14 @@
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Jordan Sokoban.csprojResolveAssemblyReference.cache
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\JordanSokoban.Board.resources
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\JordanSokoban.FormLevels.resources
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\JordanSokoban.FormPlayers.resources
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Jordan Sokoban.csproj.GenerateResource.Cache
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Sokoban Pro.exe
+E:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Sokoban Pro.pdb
+E:\Jordan Aitken Sokoban\Jordan Sokoban\Sokoban Pro.exe
+E:\Jordan Aitken Sokoban\Jordan Sokoban\Sokoban Pro.pdb
+F:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\JordanSokoban.Board.resources
+F:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\JordanSokoban.FormLevels.resources
+F:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\JordanSokoban.FormPlayers.resources
+F:\Jordan Aitken Sokoban\Jordan Sokoban\obj\Debug\Jordan Sokoban.csproj.GenerateResource.Cache
+F:\Jordan Aitken Sokoban\Jordan Sokoban\Sokoban Pro.exe.config

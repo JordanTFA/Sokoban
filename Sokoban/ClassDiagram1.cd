@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JordanSokoban.Board">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAACAAMAAQAASAAAYCAEEABEQBAgIABIAAAAE=</HashCode>
+      <FileName>Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JordanSokoban.FormLevels">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIAASBBAAAAAACAEAgCAAEBAAAAACAIAgCAAAA=</HashCode>
+      <FileName>FormLevels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JordanSokoban.FormPlayers">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAGjAAAAAAgAWAAAACAiAAABQABCAAAAAAIIA=</HashCode>
+      <FileName>FormPlayers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JordanSokoban.Item">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAIABAAACAQAAAgA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JordanSokoban.Level">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QhEAgAAQFlCAFCQCQIQABEYFQAVUKEIIRAUCCEABCQA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JordanSokoban.LevelSet">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQCAgQGAgqAAAAKAEIAEMACAADAgAAAAAAAA=</HashCode>
+      <FileName>LevelSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JordanSokoban.PlayerData">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACHABAAEACAABAAAAAQAAAAEAAAEAAgAAAAAAAA=</HashCode>
+      <FileName>PlayerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="JordanSokoban.ItemType">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAAAAIgAAgAQAAAAABAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="JordanSokoban.MoveDirection">
+    <Position X="2" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
